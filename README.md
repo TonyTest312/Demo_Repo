@@ -3,6 +3,10 @@ A Demo Repo for Sloan/Forsythe Lab
 
 # Resources
 
+* Git installer
+
+  https://www.atlassian.com/git/tutorials/install-git
+
 * YouTube tutorial on GitHub basics.
 
   https://www.youtube.com/watch?v=RGOj5yH7evk
