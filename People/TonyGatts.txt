@@ -1,0 +1,5 @@
+Name: Tony Gatts
+Age: 32
+Birthday: 07/06/1990
+Degree: Biology & Computer Science
+Favorite Activity: Escape Rooms
