@@ -14,4 +14,6 @@ A Demo Repo for Sloan/Forsythe Lab
 
   https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 
+* GitHubBasics.ppx is the powerpoint for this presentation. Includes common Git commands. 
+
 
