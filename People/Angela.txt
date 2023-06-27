@@ -1,0 +1,6 @@
+Name: Angela Stelson
+Age: 33
+Birthday: 12/03/1989
+Degree: Physics
+Favorite Activity: Gardening
+
