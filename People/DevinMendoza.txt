@@ -1,0 +1,5 @@
+Name:Devin
+Age: 21
+Birthday: 8/30/01
+Degree: Biology
+Favorite activity: Gaming
