@@ -1,0 +1,5 @@
+Name: Dan Sloan
+Age: 42
+Birthday: XX/XX/XXXX 
+Degree: PhD
+Favorite Activity: eating!
